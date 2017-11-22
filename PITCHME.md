@@ -40,14 +40,6 @@ Nobody wants an investment hindered by <span class="primary">unforeseen</span> t
 - Free copies of [Building Maintainable Software]((https://shop.oreilly.com/product/0636920049159.do)
 - Discount on the Quality Software Development professional qualification [QSD](http://comm.peoplecert.org/IBD/QSD)
 
-+++
-
-## Who is in the programm
-
-Startup | CEO  | Score
---- | --- | --- 
-[node.energy](https://node.energy) | Lars Rinn | <insert badge> |
-[241 Software Solutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | <insert badge> |
 
 +++
 
@@ -106,6 +98,15 @@ Ten Guidelines for future-proof code
 - Less than 18 months old
 - Fewer than 10 employees
 - Less than $1.5M in funding
+
++++
+
+## Who is in the programm
+
+Startup | CEO  | Score
+--- | --- | --- 
+[node.energy](https://node.energy) | Lars Rinn | <insert badge> |
+[241 Software Solutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | <insert badge> |
 
 +++
 
