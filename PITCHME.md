@@ -101,11 +101,10 @@ Ten Guidelines for future-proof code
 
 +++
 
-## Who is in the programm
+## Participants
 
-[node.energy](https://node.energy) <span class="primary">Lars Rinn</span>
-
-[241 Software Solutions](https://www.241softwaresolutions.com) <span class="primary"> [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) </span>
+[node.energy](https://node.energy) | <span class="primary">Lars Rinn</span>
+[241 Software Solutions](https://www.241softwaresolutions.com) | <span class="primary"> [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) </span>
 
 +++
 
