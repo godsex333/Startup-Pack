@@ -103,11 +103,11 @@ Ten Guidelines for future-proof code
 
 ## Who is in the programm
 
-Startup | CEO | Score
---- | --- | --- 
-[node.energy](https://node.energy) | Lars Rinn | insert badge here 
-[241 Software Solutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | insert badge here
---- | --- | ---
+Startup | CEO
+--- | ---
+[node.energy](https://node.energy) | Lars Rinn
+[241 Software Solutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b)
+--- | --- 
 
 +++
 
