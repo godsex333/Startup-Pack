@@ -103,9 +103,9 @@ Ten Guidelines for future-proof code
 
 ## Participants
 
-[node.energy](https://node.energy) | Lars Rinn | BCH score
+[node.energy](https://node.energy) | Lars Rinn
 
-[241SoftwareSolutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | BCH score
+[241SoftwareSolutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b)
 
 +++
 
