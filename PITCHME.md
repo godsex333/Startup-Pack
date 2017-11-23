@@ -103,9 +103,9 @@ Ten Guidelines for future-proof code
 
 ## Participants
 
-[node.energy](https://node.energy) | Lars Rinn
+[node.energy](https://node.energy) | Lars Rinn | Frankfurt
 
-[241SoftwareSolutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b)
+[241SoftwareSolutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | Amsterdam
 
 +++
 
