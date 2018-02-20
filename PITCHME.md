@@ -35,7 +35,7 @@ Nobody wants an investment hindered by <span class="primary">unforeseen</span> t
 
 <span class="primary">What's included</span>
 
-- 6 months of free access to Better Code Hub for your development team
+- 3 months of free access to Better Code Hub for your development team
 - Code coaching workshops at incubator
 - Free copies of [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
 - Discount on the Quality Software Development professional qualification [QSD](http://comm.peoplecert.org/IBD/QSD)
