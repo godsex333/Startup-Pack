@@ -132,7 +132,7 @@ Ten Guidelines for future-proof code
 - <bettercodehub@sig.eu>
 - [@bettercodehub](https://twitter.com/bettercodehub)
 
-✨<span class="primary">let's get investor ready!</span>✨
+✨<span class="primary">Let's get investor ready!</span>✨
 
 ---
 
