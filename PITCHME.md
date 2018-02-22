@@ -122,10 +122,8 @@ Ten Guidelines for future-proof code
 
 <span class="primary">Send [email](mailto:bettercodehub@sig.eu) </span> 
 
-- include GitHub account (personal or organization)
-- for the hardcopy of our book, include your postal address and Java or C# preference
+- include GitHub account (personal or organization), include your postal address and Java or C# preference for the book.
 
-<span class="primary">What happens next</span> 
 - Your account get access for 3 months with option to renew
 - You get a demo via screen sharing
 
