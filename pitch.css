@@ -1,3 +1,7 @@
 .reveal .primary {
     color: springgreen;
 }
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
