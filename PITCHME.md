@@ -115,6 +115,11 @@ Ten Guidelines for future-proof code
 - [Open Source Spring Cleaning](https://opensourcespringcleaning.github.io/)
 - [Support for Hackathons](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
+
+---
+
+## Get Started
+
 ---
 ## About SIG
 [<span class="primary">Software Improvement Group</span>](https://sig.eu) 
