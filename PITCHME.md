@@ -136,12 +136,12 @@ Ten Guidelines for future-proof code
 
 ---
 
-## Get Started 
+## Getting Started 
 
 <span class="primary">for TechQuartier Members </span> 
 
 - Send [email](mailto:bettercodehub@sig.eu?subject=I am a TechQuartier member) with GitHub account & postal address for free hardcopy.
-- Your account get access for 3 months with option to renew
-- You get a demo via screen sharing
+- Your account get access for 3 months with option to renew.
+- You get a demo via screen sharing.
 
 
