@@ -138,7 +138,7 @@ Ten Guidelines for future-proof code
 
 ## Getting Started 
 
-for [TechQuartier Members](https://techquartier.com/membership/)
+for [TechQuartier Members](https://techquartier.com/membership/) ![TechQuartier](assets/TQ_logo.jpg)
 
 - Send [email](mailto:bettercodehub@sig.eu?subject=I am a TechQuartier member) with GitHub account & postal address for free hardcopy (Java or C#).
 - You get BCH Pro access for <span class="primary">6</span> months.
