@@ -35,7 +35,7 @@ Nobody wants an investment hindered by <span class="primary">unforeseen</span> t
 
 <span class="primary">What's included</span>
 
-- 3 months of free access to Better Code Hub for your development team
+- 6 months of free access to Better Code Hub for your development team
 - Code coaching workshops at incubator
 - Free copies of [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
 - Discount on the Quality Software Development professional qualification [QSD](http://comm.peoplecert.org/IBD/QSD)
@@ -141,7 +141,7 @@ Ten Guidelines for future-proof code
 <span class="primary">for [TechQuartier Members](https://techquartier.com/membership/)! </span> 
 
 - Send [email](mailto:bettercodehub@sig.eu?subject=I am a TechQuartier member) with GitHub account & postal address for free hardcopy.
-- Your account get BCH Pro access for <span class="primary">6</span> months.
+- You get BCH Pro access for <span class="primary">6</span> months.
 - You get a demo via screen sharing.
 - Meet us for a Code Clinic in <span class="primary">Frankfurt</span> 
 
