@@ -143,7 +143,7 @@ Ten Guidelines for future-proof code
 
 - Send [email](mailto:bettercodehub@sig.eu?subject=I am a TechQuartier member) with GitHub account & postal address for free hardcopy (Java or C#).
 - You get BCH Pro access for <span class="primary">6</span> months.
-- You get a demo via screen sharing.
+- You get invited for a demo via screen sharing.
 - Meet us for a Code Clinic in <span class="primary">TechQuartier</span>
 
 
