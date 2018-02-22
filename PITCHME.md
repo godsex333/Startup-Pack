@@ -130,9 +130,9 @@ Ten Guidelines for future-proof code
 ## Get in Touch
 
 - <bettercodehub@sig.eu>
-- Twitter: [@sig_eu](https://twitter.com/sig_eu) or [@bettercodehub](https://twitter.com/bettercodehub)
+- [@bettercodehub](https://twitter.com/bettercodehub)
 
-✨<span class="primary">Thanks for your time!</span>✨
+✨<span class="primary">let's get investor ready!</span>✨
 
 ---
 
