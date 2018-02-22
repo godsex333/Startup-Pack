@@ -145,5 +145,5 @@ for [TechQuartier Members](https://techquartier.com/membership/)
 - You get a demo via screen sharing.
 - Meet us for a Code Clinic in <span class="primary">Frankfurt</span>
 
-![TQ logo](assets/TQ_logo.png)
+![TQ logo](assets/TQ_logo2.png)
 
