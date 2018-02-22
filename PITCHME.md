@@ -118,19 +118,18 @@ Ten Guidelines for future-proof code
 
 ---
 
-## Get Started
-
-For members of TechQuartier
+## TechQuartier members
 
 <span class="primary">Send email to bettercodehub@sig.eu</span> 
 
-- With your GitHub account (personal or organization) that needs access
-- If you are interested in a hardcopy of our book, include your postal address and your preference for the Java or C# version
+- include GitHub account (personal or organization)
+- for the hardcopy of our book, include your postal address and Java or C# preference
 
-<span class="primary">Get Access and a demo</span> 
+<span class="primary">What happens next</span> 
 
-- We will whitelist your account for 3 months with an option to renew
-- We will give you a demo via screen sharing
+- Your account get access for 3 months with option to renew
+- You get a demo via screen sharing
+
 
 
 
