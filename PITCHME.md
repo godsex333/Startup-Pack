@@ -136,9 +136,9 @@ Ten Guidelines for future-proof code
 
 ---
 
-## Getting Started 
+## Getting Started for 
 
-for ![TQ Logo](assets/TQ_logo2.png) members
+![TQ Logo](assets/TQ_logo2.png)
 
 
 - Send [email](mailto:bettercodehub@sig.eu?subject=I am a TechQuartier member) with GitHub account & postal address for free hardcopy (Java or C#).
