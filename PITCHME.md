@@ -120,6 +120,20 @@ Ten Guidelines for future-proof code
 
 ## Get Started
 
+For members of TechQuartier
+
+<span class="primary">Send email to bettercodehub@sig.eu</span> 
+
+- With your GitHub account (personal or organization) that needs access
+- If you are interested in a hardcopy of our book, include your postal address and your preference for the Java or C# version
+
+<span class="primary">Get Access and a demo</span> 
+
+- We will whitelist your account for 3 months with an option to renew
+- We will give you a demo via screen sharing
+
+
+
 ---
 ## About SIG
 [<span class="primary">Software Improvement Group</span>](https://sig.eu) 
