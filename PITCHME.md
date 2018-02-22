@@ -116,18 +116,6 @@ Ten Guidelines for future-proof code
 - [Support for Hackathons](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
 
----
-
-## Get Started 
-
-<span class="primary">for TechQuartier Members </span> 
-
-- Send [email](mailto:bettercodehub@sig.eu?subject=I am a TechQuartier member") with GitHub account & postal address for the free hardcopy.
-- Your account get access for 3 months with option to renew
-- You get a demo via screen sharing
-
-
-
 
 ---
 ## About SIG
@@ -145,5 +133,15 @@ Ten Guidelines for future-proof code
 - Twitter: [@sig_eu](https://twitter.com/sig_eu) or [@bettercodehub](https://twitter.com/bettercodehub)
 
 ✨<span class="primary">Thanks for your time!</span>✨
+
+---
+
+## Get Started 
+
+<span class="primary">for TechQuartier Members </span> 
+
+- Send [email](mailto:bettercodehub@sig.eu?subject=I am a TechQuartier member) with GitHub account & postal address for free hardcopy.
+- Your account get access for 3 months with option to renew
+- You get a demo via screen sharing
 
 
