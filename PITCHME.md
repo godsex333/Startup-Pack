@@ -141,9 +141,9 @@ Ten Guidelines for future-proof code
 ![TQ Logo](assets/TQ_logo2.png)
 
 
-- Slack @MichielCuijpers at Membersoftechquartier.
-- We will send you a hardcopy of the book in Java or C#
+- Slack @MichielCuijpers at TQ-slack.
 - You get individual BCH Pro access for <span class="primary">6</span> months.
+- Will send you a hardcopy of the book in Java or C#
 - If you want we give a short demo via screen sharing.
 - Meet us for a Code Clinic in <span class="primary">TechQuartier</span>
 
