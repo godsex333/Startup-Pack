@@ -141,7 +141,7 @@ Ten Guidelines for future-proof code
 ![TQ Logo](assets/TQ_logo2.png)
 
 
-- Slack @MichielCuijpers at TQ-slack.
+- Slack [@MichielCuijpers](https://membersoftechquartier.slack.com/team/U9HFP1Z1A) at TQ-slack.
 - You get individual BCH Pro access for <span class="primary">6</span> months.
 - a hardcopy of the book in Java or C#.
 - a short demo via screen sharing.
