@@ -143,7 +143,7 @@ Ten Guidelines for future-proof code
 
 - Slack @MichielCuijpers at TQ-slack.
 - You get individual BCH Pro access for <span class="primary">6</span> months.
-- a hardcopy of the book in Java or C#
+- a hardcopy of the book in Java or C#.
 - a short demo via screen sharing.
 - Meet us for a Code Clinic in <span class="primary">TechQuartier</span>
 
