@@ -16,6 +16,8 @@
 
 <span class="primary">investor-ready.</span>
 
+want to apply? send us an [email](mailto:bettercodehub@sig.eu)
+
 +++
 
 ![unforeseen technical conditions](assets/car-wheels.jpg)
