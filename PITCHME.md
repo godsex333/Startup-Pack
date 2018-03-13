@@ -17,7 +17,7 @@
 <span class="primary">investor-ready.</span>
 
 
-interested to apply ? send us an [email](mailto:bettercodehub@sig.eu)
+interested? send us an [email](mailto:bettercodehub@sig.eu)
 
 +++
 
@@ -139,7 +139,7 @@ Ten Guidelines for future-proof code
 
 ---
 
-## Getting Started for 
+## Getting Started for TQ 
 
 ![TQ Logo](assets/TQ_logo2.png)
 
