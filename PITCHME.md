@@ -16,7 +16,8 @@
 
 <span class="primary">investor-ready.</span>
 
-want to apply? send us an [email](mailto:bettercodehub@sig.eu)
+
+interested to apply ? send us an [email](mailto:bettercodehub@sig.eu)
 
 +++
 
